@@ -44,11 +44,11 @@ export async function POST(request: Request) {
     username: user.username,
     name: user.name,
     phone: user.phone,
-    country: user.country,
-    broker: user.broker,
-    accountBalance: user.accountBalance,
-    currency: user.currency,
-    preferredAccount: user.preferredAccount,
+    country: user.country || "",
+    broker: user.broker || "",
+    accountBalance: user.accountBalance || "",
+    currency: user.currency || "USD",
+    preferredAccount: user.preferredAccount || "",
     message: body?.message?.trim() || "Account management request",
   });
 
