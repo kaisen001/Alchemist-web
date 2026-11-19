@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.*
+
+# next.js
+.next/
+out/
+build/
+
+# env / secrets
+.env
+.env.*
+!.env.local.example
+!**/.env.local.example
+
+# logs / misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store
+*.pem
+.vercel
+*.tsbuildinfo
+
+# local IDE / agent
+.cursor/
+agent-transcripts/

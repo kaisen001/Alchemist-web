@@ -1,0 +1,63 @@
+{
+  "pdfs": [
+    {
+      "id": "ems-trinity",
+      "title": "THE ALCHEMIST EMS TRINITY",
+      "description": "Core EMS framework PDF for structured market reading.",
+      "url": "/learning/THE_ALCHEMIST_EMS_TRINITY.pdf",
+      "tags": ["EMS", "Framework"],
+      "published": true,
+      "publishedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "alchemist-guide",
+      "title": "Alchemist Guide",
+      "description": "Foundational mentorship notes and process overview.",
+      "url": "/learning/Alchemist.pdf",
+      "tags": ["Mentorship"],
+      "published": true,
+      "publishedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "smc-ebook",
+      "title": "Smart Money SMC",
+      "description": "Liquidity and smart-money concepts companion ebook.",
+      "url": "/learning/SMC.pdf",
+      "tags": ["Liquidity", "SMC"],
+      "published": true,
+      "publishedAt": "2026-11-19T00:00:00.000Z"
+    }
+  ],
+  "videos": [
+    {
+      "id": "ems-intro",
+      "title": "EMS Session Intro",
+      "description": "Orientation to the EMS monthly session process.",
+      "url": "",
+      "duration": "12:40",
+      "tags": ["EMS", "Live replay"],
+      "published": true,
+      "publishedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "liquidity-maps",
+      "title": "Reading Liquidity Maps",
+      "description": "How to spot order concentration and reactions.",
+      "url": "",
+      "duration": "18:05",
+      "tags": ["Liquidity"],
+      "published": true,
+      "publishedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "execution-model",
+      "title": "Execution Model Walkthrough",
+      "description": "Risk-first entries and review routine.",
+      "url": "",
+      "duration": "22:10",
+      "tags": ["Execution"],
+      "published": true,
+      "publishedAt": "2026-11-19T00:00:00.000Z"
+    }
+  ]
+}
